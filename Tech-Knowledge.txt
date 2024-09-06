@@ -1,0 +1,50 @@
+What is HTTP, Request, Response
+What is API, RESTful API, SOAP API, Library API, OS API
+What is JSON, XML
+What is Web Socket
+What is Authorization and Authentication
+
+what is SPA
+what is DOM
+what is node js
+what is react
+what is jsx -- templating language complied with babel
+what is react js 
+what is react native
+Framework vs Library
+React Js vs Native
+Typescript vs Javascript
+How does react work
+	Commands to start
+	Folder structure
+	index.html index.js app.tsx	
+	Components (return jsx element)
+	Class and Function components
+	props, propTypes, defaultProptypes, using interface
+	State Mgnt
+	Component life cycle (componentDidMount, DidUpdate, WillUmount --- useEffect)
+	.env.local file (process.env.apiKey)
+	React Router DOM
+	Memo	
+	React Hooks
+	Redux
+	JSX syntax
+
+types
+discriminating union
+promises
+------------------
+
+HTML
+CSS
+Javascript and JQuery
+Typescript vs Javascript
+OOPS with SOLID
+Design Patterns
+C#
+MVC
+.Net Core API
+ACID Props
+React
+React JS vs React Native
+Git
