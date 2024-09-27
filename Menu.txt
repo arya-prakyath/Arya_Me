@@ -1,0 +1,150 @@
+Starters
+	Egg - 
+		Boiled Egg
+		Boiled Egg fry	
+		Egg 65	
+		Egg chilli
+		Egg pepper dry
+	
+	Chicken -
+		Chicken kabab
+		Andhra Chilli Chicken
+		Chicken Fry
+
+		Chicken	65
+		Chicken Salt and Pepper
+		Chicken Pepper Dry
+
+		Chicken	Chilli
+		Chicken Shezwan Chilli
+		Chicken Majestic
+		Chicken Manchurian
+		Chicken Dragon
+		Chicken Kung Pao
+		Chicken Tsao
+		Chicken Butter Garlic
+		Chicken Orange
+		Chicken Lemon
+		Chicken Sweet and Sour
+
+	Mushroom/ Babycorn/ Paneer -
+		M/B/P kabab
+		M/B/P 65
+		M/B/P Salt and Pepper
+		M/B/P Pepper Dry
+
+		M/B/P Chilli
+		M/B/P Shezwan Chilli
+		M/B/P Majestic
+		M/B/P Manchurian
+		M/B/P Dragon
+		M/B/P Sweet and Sour
+
+Fried Rice -
+	Veg/ Egg/ Chicken/ Mushroom/ Babycorn/ Paneer -
+		Fried Rice
+		Shezwan Fried Rice
+		Burnt Gralic Fried Rice
+	Local Egg Rice
+
+Biryani -
+	Chicken Hyderabadi Biryani
+	Chicken Donne Biryani
+	Chicken Ambur Biryani
+	Kuska Rice
+	Egg Biryani
+
+--------------------------------------------------------
+
+Equipments
+	Rent -
+		20K + 100K (deposit) = 120K
+	Stainless Steel Counter -
+		20K (2) = 40K
+	Cooking Counter -
+		15K (2) = 30K
+	Exhaust Roof -
+		20K
+	Refrigerator -
+		30k
+	Iron Rack -
+		5K (2) = 10K
+	Utensils -
+		Knives, Scissors & Mixing Bowls
+		Woks & Laddels (3)
+		Handi (2)
+		Grinder (2)
+		Fryer (2)
+ 		Storage Boxes & Containers
+			25K
+	Fire Extinguisher -
+		6K (3) = 18K
+	CCTV and Laptop -
+		30K
+	
+	Total = 3,00,000
+
+--------------------------------------------------------
+
+Raw Materials
+	Base -
+		Oil
+		Onion, Tomato
+		Ginger, Garlic
+		Green Chilly, Red Chilly
+		Corriender, Curry Leaves, Pudina Leaves
+		Spring Onion, Lemon
+		G&G Paste, Curds
+		Whole Spices
+
+	Mains -
+		Chicken Bone and Boneless
+		Mushroon, Babycorn, Paneer
+		Basmathi Rice
+
+	Powders -
+		Salt, Pepper
+		Chilly, Tumeric
+		Jeera, Daniya
+		Garam Masala, Chat Masala
+	
+	Sauces -
+		Ketchup, Mayonnaise
+		Soya, Vinegar
+		Green Chilly, Red Chilly
+		Shezwan, Pudina
+
+	Extras -
+		Sesame, Cashew, Peanuts
+	
+--------------------------------------------------------
+
+Staffs
+	Biller
+	Order Manager
+	Chopper
+	Fry Chef
+	Wok Chef (2)
+	Rice Wok Chef (2)
+	Packer
+	Deliver Manager
+	Cleaning (2)
+	Dishwasher (1)
+
+--------------------------------------------------------
+
+Workflow
+	Order comes from Swiggy and Zomato
+	Manager m
+		
+	
+
+
+
+
+
+
+
+
+		
+		
