@@ -12,7 +12,7 @@ what is jsx -- templating language complied with babel
 what is react js 
 what is react native
 Framework vs Library
-React Js vs Native
+ReactJs vs Native
 Typescript vs Javascript
 How does react work
 	Commands to start
@@ -28,6 +28,7 @@ How does react work
 	Memo	
 	React Hooks
 	Redux
+	React Test
 	JSX syntax
 
 types
@@ -42,9 +43,14 @@ Typescript vs Javascript
 OOPS with SOLID
 Design Patterns
 C#
-MVC
+ASP .Net Core
+ASP .Net Core MVC
 .Net Core API
 ACID Props
 React
 React JS vs React Native
 Git
+Azure Fundamentals
+Azure DevOps
+Azure Function App Service
+Azure Web App Service
