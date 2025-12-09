@@ -1,62 +1,113 @@
-Starters
-	Egg - 
-		Boiled Egg
-		Boiled Egg fry	
-		Egg 65	
-		Egg chilli
-		Egg pepper dry
-	
-	Chicken -
-		Chicken kabab
-		Andhra Chilli Chicken
-		Chicken Fry
-
-		Chicken	65
-		Chicken Salt and Pepper
-		Chicken Pepper Dry
-
-		Chicken	Chilli
-		Chicken Shezwan Chilli
-		Chicken Majestic
-		Chicken Manchurian
-		Chicken Dragon
-		Chicken Kung Pao
-		Chicken Tsao
-		Chicken Butter Garlic
-		Chicken Orange
-		Chicken Lemon
-		Chicken Sweet and Sour
-
-	Mushroom/ Babycorn/ Paneer -
-		M/B/P kabab
-		M/B/P 65
-		M/B/P Salt and Pepper
-		M/B/P Pepper Dry
-
-		M/B/P Chilli
-		M/B/P Shezwan Chilli
-		M/B/P Majestic
-		M/B/P Manchurian
-		M/B/P Dragon
-		M/B/P Sweet and Sour
-
-Fried Rice -
-	Veg/ Egg/ Chicken/ Mushroom/ Babycorn/ Paneer -
-		Fried Rice
-		Shezwan Fried Rice
-		Burnt Gralic Fried Rice
-	Local Egg Rice
+Starters [E-12 | C-12 | M-15 | B-15 | P-10] -
+	Dry -
+		65
+		Salt and Pepper
+		Pepper Dry
+	Spicy -
+		Chilly
+		Schezwan
+		Dragon (cashew)
+		Majestic
+	Mild -
+		Kung Pao (peanuts)
+		Lemon
+		French
+		Manchurian
+	Sweet -
+		Butter Garlic
+		Honey Chilly
+		Orange
+		Sweet & Sour
+	Gravy -
+		In Green Gravy (Green)
+		In Schezwan Gravy (Red)
+		In Manchurian Gravy (Orange)
+		In Pepper Gravy (Black)
+		In Ginger Gravy ()
+		In Lemon Gravy (Yellow)
+			
+W/ Jasmine Rice
+	 
+Fried Rice [V/ E/ C/ M/ B/ P] -
+	Chinese Fried Rice
+	Schezwan Fried Rice
+	Burnt Garlic Fried Rice
+	Hong Kong Fried Rice
+	Local Fried Rice
 
 Biryani -
-	Chicken Hyderabadi Biryani
-	Chicken Donne Biryani
-	Chicken Ambur Biryani
-	Kuska Rice
-	Egg Biryani
+	Hyderabadi Biryani
+	Donne Biryani
+	Dhakni Biryani
+	
+--------------------------------------------------------
+
+Ingredients - 
+	Base -
+		Oil, Butter
+		Ginger, Garlic
+		Green Chilly, Dried Red Chilly
+		Coriander Leaves, Curry Leaves, Pudina Leaves, Palak
+		Spring Onion, Lemon
+		Ginger Garlic Paste, Curd
+		Star Anise
+	Mains -
+		Eggs, Boneless Chicken
+		Mushroom, Baby corn, Paneer
+		Onion, Capsicum
+		Carrot, Cabbage, Beans
+		Floor, Cornstarch, Rice Flour, Potato Starch
+		Basmati Rice, Jasmine Rice
+	Powders -
+		Salt, Pepper, Sugar
+		Chilly, Turmeric
+		Coriander, Jeera, Garam Masala
+		Chat Masala, Aromat, Madras Curry
+	Sauces -
+		Ketchup, Soya, Vinegar
+		Green Chilly, Green Chilly Paste, Schezwan
+		Worcester, Oyster, Shaoxing Wine
+		Honey, Orange Extract, Mixed fruit Jam
+		Homemade Green Sauce
+	Seeds -
+		Sesame, Cashew, Peanut
+	
+--------------------------------------------------------
+
+Preps -
+	Cook Rice
+	Cook Noodles
+	Boil Eggs
+	Marinate Chicken , Mushroom, Corn, Paneeer - 65
+	Marinate Chicken Jullians and Chicken Cubes
+	Marinate Mushroom, Corn, Paneeer
+	Make Green Sauce
+	Chop - Onion, Ginger, Garlic, Chilly, Cabbage, Beans, Carrot, Corriander, Pudina
+	Cut Julliens - Onion, Capcicum, Cabbage, Beans, Carrot
+	Cut Floarets - Onion, Capcicum
+	Make Slurry
 
 --------------------------------------------------------
 
-Equipments
+Staffs
+	Biller
+	Order Manager
+	Chopper
+	Fry Chef
+	Wok Chef (2)
+	Rice Wok Chef (2)
+	Packer
+	Deliver Manager
+	Cleaning (2)
+	Dishwasher (1)
+
+--------------------------------------------------------
+
+Workflow
+	TODO
+--------------------------------------------------------
+
+Equipment -
 	Rent -
 		20K + 100K (deposit) = 120K
 	Stainless Steel Counter -
@@ -83,60 +134,6 @@ Equipments
 		30K
 	
 	Total = 3,00,000
-
---------------------------------------------------------
-
-Raw Materials
-	Base -
-		Oil
-		Onion, Tomato
-		Ginger, Garlic
-		Green Chilly, Red Chilly
-		Corriender, Curry Leaves, Pudina Leaves
-		Spring Onion, Lemon
-		G&G Paste, Curds
-		Whole Spices
-
-	Mains -
-		Chicken Bone and Boneless
-		Mushroon, Babycorn, Paneer
-		Basmathi Rice
-
-	Powders -
-		Salt, Pepper
-		Chilly, Tumeric
-		Jeera, Daniya
-		Garam Masala, Chat Masala
-	
-	Sauces -
-		Ketchup, Mayonnaise
-		Soya, Vinegar
-		Green Chilly, Red Chilly
-		Shezwan, Pudina
-
-	Extras -
-		Sesame, Cashew, Peanuts
-	
---------------------------------------------------------
-
-Staffs
-	Biller
-	Order Manager
-	Chopper
-	Fry Chef
-	Wok Chef (2)
-	Rice Wok Chef (2)
-	Packer
-	Deliver Manager
-	Cleaning (2)
-	Dishwasher (1)
-
---------------------------------------------------------
-
-Workflow
-	Order comes from Swiggy and Zomato
-	Manager m
-		
 	
 
 
