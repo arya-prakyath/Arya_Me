@@ -1,0 +1,8 @@
+Azure Cloud - https://www.youtube.com/playlist?list=PLGjZwEtPN7j96A9JNpA4ouI3bH-uWZ0Ht
+Azure DevOps - https://www.youtube.com/watch?v=4BibQ69MD8c
+Azure Functions - https://www.youtube.com/playlist?list=PLMWaZteqtEaLRsSynAsaS_aLzDPBUU4CV
+Azure Web Apps - https://www.youtube.com/playlist?list=PLGjZwEtPN7j_ceFeiDRjHpeEY7uK
+Azure Identity - https://www.youtube.com/playlist?list=PLGjZwEtPN7j-c0vzM9RPTGShYi8exVFZv
+More on AZure - https://www.youtube.com/playlist?list=PLdpzxOOAlwvIcxgCUyBHVOcWs0Krjx9xR
+
+Certification Exam - https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM
