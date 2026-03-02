@@ -1,15 +1,18 @@
 Apollo - 1,500
-Credit card - 4014
-Cred Cash - 1871
+Credit card - 4,014
+Cred Cash - 1,871
 Cred flash - 594
 HDFC - 10,000
+Mutual Funds - 16,000
+Amma - 3,000
 
-
-TOTAL - 17,979
+TOTAL - 36,979
 
 ---------------------------------------------------
 
-CREDIT CRD - 0
+Blinkit - 1682
+Medical - 250
+CREDIT CARD - 1732
 
 ---------------------------------------------------
 
